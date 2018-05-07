@@ -1,0 +1,16 @@
+Instructions
+
+Run the AllTests Junit in test folder and you will make the code work to pass the unit tests
+   Update this file with your name here section
+   Zip up the src directory and name the zip with your name
+
+Score (22 JUnit tests, 11 for JDBC and 11 for JPA)
+   JDBC or JPA only and max you get 80%
+   JDBC and JPA and max you get 100%
+
+Hints:
+1)  Make sure you understand how java persistence works before you start the homework
+2)  Make sure you look at the @Before method in AbstractAccountManagerTest to determine what table structure looks like
+3)  Make sure you look at the getConnection method in AbstractAccountManagerTest to determine what connection url and username and password to use
+
+Your name here:  xxxxx xxxxxx

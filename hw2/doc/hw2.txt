@@ -1,0 +1,25 @@
+Instructions
+
+
+Run the CalculatorServletTest as JUnit. Currently it will fail all the tests
+
+Modify CalculatorServlet code (hint look for place where there is PUT YOUR CODE HERE part) to match the expected results
+
+Hint.  Look at sample code PlainHelloServlet to determine how to interact with HTTP Request and Response
+
+Uploaded code in HW section and you will make the code work to pass the unit tests
+   Update this file with your name here section
+   Zip up the directory and name the zip with your name
+
+Score
+    90% Junit is passed
+    100% Use enumeration rather than bunch of if/then statements
+      Hints:
+      Look at the 2nd half of this
+      https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+
+      And apply the concept using this
+      https://www.tutorialspoint.com/design_pattern/command_pattern.htm
+
+
+Your name here:  xxxxx xxxxxx

@@ -1,0 +1,9 @@
+
+.DS_Store
+*.prefs
+hw1/bin/.project
+hw1/.project
+hw1/.classpath
+hw2/.classpath
+hw2/.project
+*.class

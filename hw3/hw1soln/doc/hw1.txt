@@ -1,0 +1,18 @@
+Instructions
+
+Run the AccountManagerTest Junit in test folder in jdbc and jpa package.  
+You will make the code work to pass the unit tests
+   Update this file with your name here
+   Zip up the src and doc directory and name the zip with your name.  Do NOT include target subdirectory
+
+Score (22 JUnit tests, 11 for JDBC and 11 for JPA)
+   JDBC or JPA only and max you get 80%
+   JDBC and JPA and max you get 100%
+
+Hints:
+1)  Be sure to understand how java persistence works before you start the homework (Lecture 2)
+2)  Look at the @BeforeEach method to determine what table structure looks like
+3)  Look at the getConnection method to determine what connection url and username and password to use
+4)  Look at IAccountManager interface javadoc for hints on what each operation should doc
+
+Your name here:  Sample Solution

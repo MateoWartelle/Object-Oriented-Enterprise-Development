@@ -1,0 +1,8 @@
+Be sure to download hw1 solution and run maven install, otherwise you will end up with 
+compiler error
+
+Provide missing implementation (look for "Make it work" in servlet and jsp)
+--> Servlet has unit test in edu.depaul.se.servlet package in src\test\java folder
+--> JSP is visual inspection in src\main\webapp folder
+
+Your name here:  Mateo Wartelle
